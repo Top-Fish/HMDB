@@ -1,0 +1,11 @@
+{
+    "ms_search_ion_mode":"negative",
+    "adduct_type":[
+        "M-H",
+        "M+Cl"
+    ],
+    "tolerance":"5",
+    "tolerance_units":"ppm",
+    "ccs_predictors":"",
+    "ccs_tolerance":""
+}
